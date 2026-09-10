@@ -15,19 +15,19 @@ O projeto foi desenvolvido a partir da curadoria de fontes abertas, formulação
 ## 📋 Curadoria de Fontes
 
 Foram selecionadas as seguintes fontes para alimentação do IA:
-* **https://www.youtube.com/watch?v=4u9V7-IJDyk&t=8s
-* **https://www.youtube.com/watch?v=WXSvhJJ0zpo&t=1440s
-* **https://www.youtube.com/watch?v=5C5tm6ZGhrs&t=71s
+* https://www.youtube.com/watch?v=4u9V7-IJDyk&t=8s
+* https://www.youtube.com/watch?v=WXSvhJJ0zpo&t=1440s
+* https://www.youtube.com/watch?v=5C5tm6ZGhrs&t=71s
 
 ---
 
 ## Engenharia de Prompts
 
 Foram elaboradas perguntas estratégicas como:
-* **Como Stan Lee humanizou super-heróis e mudou as histórias em quadrinhos?
-* **O que foi o Método Marvel?
-* **Quem era Stan Lee?
-* **Como Stan Lee criou o Homem Aranha ?
+* Como Stan Lee humanizou super-heróis e mudou as histórias em quadrinhos?
+* O que foi o Método Marvel?
+* Quem era Stan Lee?
+* Como Stan Lee criou o Homem Aranha ?
 
 
 
