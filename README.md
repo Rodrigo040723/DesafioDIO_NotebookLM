@@ -30,5 +30,16 @@ Foram elaboradas perguntas estratégicas como:
 * Como Stan Lee criou o Homem Aranha ?
 
 
+---
+
+
+## Considerações Finais
+
+* Redução de Tempo de horas para minutos.Relatórios que levam horas para serem organizados foram gerados e estruturados automaticamente.
+* https://notebook.google.com/notebook/69cbcc29-1ca3-4283-a695-a8efc0b64fa9
+
+
+
+
 
 
